@@ -1,0 +1,25 @@
+inurl:member/daftar.php intext:NAMAKOTA
+inurl:/sch.id Team balitbang intext:NAMAKOTA
+intext:"Kamfret Team"sch.id Team Balitbang
+inurl:/member/daftar.php
+inurl:"/html/index.php" intext:"Tim Balitbang"
+inurl:"/html/index.php" intitle:"Selamat Datang"
+inurl:"/member/" intext:"Tim Balitbang"
+inurl:"/html/siswa.php?"
+inurl:"/html/alumni.php?"
+inurl:"/html/guru.php?"
+inurl:/member/daftar.php intext:"namakota"
+inurl:/member/ site:sch.id "selamat datang di komunitas"
+inurl:/elearning/ "password" site:sch.id
+inurl:/member/index.php "Tim Balitbang Kemdikbud versi"
+inurl:/user/index.php "Tim Balitbang Kemdikbud versi"
+inurl:/member/user site:sch.id
+inurl:agenda site:sch.id "tim balitbang"
+inurl:artikel site:sch.id "tim balitbang"
+inurl:info site:sch.id "tim balitbang"
+inurl:buku site:sch.id "tim balitbang"
+inurl:"bukutamu" site:sch.id "tim balitbang"
+inurl:"opini" site:sch.id "tim balitbang"
+inurl:"link" site:sch.id "tim balitbang"
+inurl:"galeri" site:sch.id "tim balitbang"
+inurl:"album" site:sch.id "tim balitbang"
